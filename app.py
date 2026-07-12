@@ -23,7 +23,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 # PAGE CONFIG
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="Kolkata Weather Forecast",
+    page_title="Kolkata Climate Forecast",
     page_icon="🌦️",
     layout="wide",
     initial_sidebar_state="collapsed",
