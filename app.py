@@ -908,8 +908,8 @@ def main():
     st.markdown("""
     <div class="app-header">
         <div class="city-badge">📍 Kolkata, West Bengal</div>
-        <h1>🌦️ Sourish's Weather Intelligence</h1>
-        <p>Made by Sourish Dey</p>
+        <h1>🌦️ Rish's Weather Intelligence</h1>
+        <p>Made by Sourish Ghosh</p>
     </div>
     """, unsafe_allow_html=True)
 
