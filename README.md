@@ -25,7 +25,7 @@ This project demonstrates a complete machine learning lifecycle for time-series 
 *   **Machine Learning:** `xgboost`, `scikit-learn`
 *   **Time Series Modeling:** `statsmodels` (SARIMAX)
 *   **Data Visualization:** Plotly (`plotly.graph_objects`, `plotly.subplots`)
-*   **APIs:** Government of India Website API, Requests
+*   **APIs:** API of Government of India Website, Requests
 
 ---
 
