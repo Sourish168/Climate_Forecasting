@@ -36,8 +36,9 @@ To run this project locally, ensure you have Python 3.8+ installed.
 **1. Clone the repository**
 ```bash
 git clone https://github.com/Sourish168/Climate_Forecasting.git
-cd weather-forecast-app
+cd Climate_Forecasting
 ```
 ---
 ## Use The Live Model Directly 
 
+Use it from https://climateforecasting-kgpbzxezt285b7iqmihysk.streamlit.app/
