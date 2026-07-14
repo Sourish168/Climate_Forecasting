@@ -42,4 +42,4 @@ python app.py
 ---
 ## Use The Live Model Directly 
 
-Use it from https://climateforecasting-kgpbzxezt285b7iqmihysk.streamlit.app/
+Use it from any device via: https://climateforecasting-kgpbzxezt285b7iqmihysk.streamlit.app/
