@@ -1,4 +1,4 @@
-# 🌦️ Weather Intelligence & Forecast App
+# 🌦️ Climate Intelligence & Forecast App
 
 An end-to-end Machine Learning web application built with Streamlit that predicts daily maximum and minimum temperatures. The app fetches real-time meteorological data and utilizes a hybrid time-series modeling architecture to generate a 7-day recursive forecast.
 
@@ -37,6 +37,7 @@ To run this project locally, ensure you have Python 3.8+ installed.
 ```bash
 git clone https://github.com/Sourish168/Climate_Forecasting.git
 cd Climate_Forecasting
+python app.py
 ```
 ---
 ## Use The Live Model Directly 
