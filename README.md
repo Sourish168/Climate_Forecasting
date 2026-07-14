@@ -33,7 +33,7 @@ This project demonstrates a complete machine learning lifecycle for time-series 
 
 To run this project locally, ensure you have Python 3.8+ installed.
 
-**1. Clone the repository**
+**Clone and Use the Repository**
 ```bash
 git clone https://github.com/Sourish168/Climate_Forecasting.git
 cd Climate_Forecasting
