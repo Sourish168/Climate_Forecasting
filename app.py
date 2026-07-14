@@ -909,7 +909,7 @@ def main():
     <div class="app-header">
         <div class="city-badge">📍 Kolkata, West Bengal</div>
         <h1>🌦️ Rish's Weather Intelligence</h1>
-        <p>Made by Sourish Ghosh</p>
+        <p>Devoloped and Maintained by Sourish Ghosh</p>
     </div>
     """, unsafe_allow_html=True)
 
