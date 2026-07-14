@@ -25,7 +25,7 @@ This project demonstrates a complete machine learning lifecycle for time-series 
 *   **Machine Learning:** `xgboost`, `scikit-learn`
 *   **Time Series Modeling:** `statsmodels` (SARIMAX)
 *   **Data Visualization:** Plotly (`plotly.graph_objects`, `plotly.subplots`)
-*   **APIs:** Open-Meteo API, Requests
+*   **APIs:** Government of India Website API, Requests
 
 ---
 
@@ -35,5 +35,9 @@ To run this project locally, ensure you have Python 3.8+ installed.
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/weather-forecast-app.git](https://github.com/yourusername/weather-forecast-app.git)
+git clone [https://github.com/Sourish168/Climate_Forecasting.git](https://github.com/Sourish168/Climate_Forecasting.git)
 cd weather-forecast-app
+```
+---
+## Use The Live Model Directly 
+
